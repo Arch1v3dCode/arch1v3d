@@ -12,60 +12,34 @@
 
 <br><br>
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42" />
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" />
-</td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
 
 <br>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42"/>
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+
+<br><br>
+
 <a href="https://discord.com/users/1440799224324427838">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=007BFF&logoColor=white&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=007BFF&logoColor=white&style=for-the-badge" height="28"/>
 </a>
 
 &nbsp;
 
 <a href="https://arch1v3d.xyz/">
-<img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=007BFF&logoColor=white&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=007BFF&logoColor=white&style=for-the-badge" height="28"/>
 </a>
 
 </div>
